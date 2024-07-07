@@ -1,4 +1,4 @@
-# Food Calories Calculator 🥗
+# Meal Evaluator🥗
 
 This is a simple web application that allows users to upload an image of a meal, and the application will analyze the image to identify the food items present. For each identified food item, it provides a brief explanation, a breakdown of the estimated calorie content, nutritional value, and an assessment of whether the food is considered nutritious or not.
 
